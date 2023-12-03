@@ -1,9 +1,18 @@
-print ("vitejte v python academii")
 
-print("začiname gitovat")
+    print ("vitejte v python academii")
+           
+    print("začiname gitovat")
 
-list1 = [1, 2, 3, 4, 5]
+    list1 = [1, 2, 3, 4, 5]
 
-print ("hello world")
+    print ("hello world")
 
-print ("zěmna řadku")
+    print ("zěmna řadku")
+
+
+
+
+
+
+print("ahoj engeto")
+
